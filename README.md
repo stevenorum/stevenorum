@@ -1,4 +1,6 @@
-If you're a recruiter or hiring manager and are concerned about the lack of activity here, I code all day at work. When I log off in the evening, it's time for family and touching grass.
+## A note for recruiters/hiring managers
+
+If you're concerned about the lack of activity here, remember that I code all day at work. When I log off in the evening, it's time for family and touching grass.
 
 <!--
 **stevenorum/stevenorum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
