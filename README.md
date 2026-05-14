@@ -1,6 +1,7 @@
 ## A note for recruiters/hiring managers
 
-If you're concerned about the lack of activity here, remember that I code all day at work. When I log off in the evening, it's time for family and touching grass.
+I'm currently looking for a new role, as I'm unable to comply with Amazon's 5-day RTO policy. You can see my resume [here](https://stevenorum-resume.s3.us-east-1.amazonaws.com/steve_norum_resume.pdf).
+
 
 <!--
 **stevenorum/stevenorum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
