@@ -1,6 +1,6 @@
 ## A note for recruiters/hiring managers
 
-I'm currently looking for a new role, as I'm unable to comply with Amazon's 5-day RTO policy. You can see my resume [here](https://stevenorum-resume.s3.us-east-1.amazonaws.com/steve_norum_resume.pdf).
+I'm not currently looking for a new role, despite what my commit history may say. That said, you can see my resume [here](https://stevenorum-resume.s3.us-east-1.amazonaws.com/steve_norum_resume.pdf) if you want to give it a shot anyway.
 
 
 <!--
